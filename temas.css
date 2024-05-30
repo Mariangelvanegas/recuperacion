@@ -1,0 +1,41 @@
+.CONTENEDOR {
+
+width: 100%;
+height: 1500px;
+background-color: rgb(63, 142, 216);
+display: flex;
+flex-direction: colunm;
+ text-align: center;
+
+}
+
+.ENCABEZADO {
+
+    width: 100%;
+    height: 200px;
+    background-color: rgb(175, 177, 255);
+font-size: 60px;
+color: rgb(253, 253, 253);
+text-align: center;
+
+}
+
+.ENERGIARENOBABLE{
+
+    width:100% ;
+    height:499px ;
+    background-color: rgb(151, 152, 255);
+font-size: 30px;
+text-align: center;
+
+}
+
+.ENERGIANORENOBABLE {
+    
+    width:100% ;
+    height:400px ;
+    background-color: rgb(115, 118, 255);
+font-size: 30px;
+text-align: center;
+
+}
